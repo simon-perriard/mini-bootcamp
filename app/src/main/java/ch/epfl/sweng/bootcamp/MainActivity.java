@@ -13,7 +13,9 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
 
-    /** Called when the user taps the GO button */
+    /**
+     * Called when the user taps the GO button
+     */
     public void greetUser(View view){
         Intent intent = new Intent(this, GreetingActivity.class);
         startActivity(intent);
