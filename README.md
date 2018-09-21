@@ -1,1 +1,3 @@
 [![Build Status](https://travis-ci.org/simon-perriard/mini-bootcamp.svg?branch=master)](https://travis-ci.org/simon-perriard/mini-bootcamp)
+[![Maintainability](https://api.codeclimate.com/v1/badges/f7a3157f1dcc9e8753c1/maintainability)](https://codeclimate.com/github/simon-perriard/mini-bootcamp/maintainability)
+[![Test Coverage](https://api.codeclimate.com/v1/badges/f7a3157f1dcc9e8753c1/test_coverage)](https://codeclimate.com/github/simon-perriard/mini-bootcamp/test_coverage)
